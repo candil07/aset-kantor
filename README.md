@@ -1,4 +1,5 @@
 # aset-kantor
+![US9TdQF3l5ghd](https://user-images.githubusercontent.com/52884009/201666237-23d90d39-1fe9-4fcb-877b-8592f4e2856b.jpg)
 
 download source code aplikasi inventarisasi aset kantor: https://www.youtube.com/watch?v=US9TdQF3l5g&amp;t=27s
 
